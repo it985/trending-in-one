@@ -1,3 +1,5 @@
+【不再更新，感谢支持！】
+
 # trending-in-one
 
 [![Build Status](https://github.com/hu-qi/trending-in-one/workflows/ci/badge.svg?branch=master)](https://github.com/hu-qi/trending-in-one/actions)
